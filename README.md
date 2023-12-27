@@ -1,5 +1,5 @@
 # 🧮 Quantum Annealing Integer Factorization
-Based on the research done in my other repository [Quantum Annealing for Prime Factorization](https://github.com/pow4you/IFP_QC) a fork of [yanarc/IFP_QC](https://github.com/yanarc/IFP_QC).
+Based on the research done in my other repository ✨[Quantum Annealing for Prime Factorization](https://github.com/pow4you/IFP_QC)✨ a fork of [yanarc/IFP_QC](https://github.com/yanarc/IFP_QC).
 
 This is a proof of concept for a script that can factorize any integer input using a Quantum Annealer.
 
